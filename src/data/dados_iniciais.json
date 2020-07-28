@@ -1,101 +1,121 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Pop 2020",
+      "link": "https://www.youtube.com/watch?v=K-a8s8OLBSE&list=PLINj2JJM1jxNNBnGb3WvHmcyCyfl0VlJX&index=2&t=0s",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Últimos lançamentos",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Kylie Minogue - Say Something (Official Lyrics Video)",
+          "url": "https://www.youtube.com/watch?v=pRzwD2LLXSI"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Taylor Swift - Cardigan (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=K-a8s8OLBSE&list=PLINj2JJM1jxNNBnGb3WvHmcyCyfl0VlJX&index=2&t=0s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Troye Sivan - Easy",
+          "url": "https://www.youtube.com/watch?v=bCHqIhiFmEY"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Marshmello & Halsey - Be Kind (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=ePao0cTGG-o"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Blackbear - Queen of Broken Hearts (Official Video)",
+          "url": "https://www.youtube.com/watch?v=sxf3K4Wt4x4"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Blackpink - How You Like That M/V",
+          "url": "https://www.youtube.com/watch?v=ioNng23DkIM"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Lady Gaga, Ariana Grande - Rain On Me (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=AoAm4om0wTs"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Pabllo Vittar - Rajadão (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=naeTvOPmq-U"
+        },
+        {
+          "titulo": "Poesia Acústica #9 - Melhor Forma - L7NNON | CHRIS | Xamã | Lourena | Cesar Mc | Djonga | Filipe Ret",
+          "url": "https://www.youtube.com/watch?v=e1tZUSriYM8"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Papo entre PyLadies",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Série de entrevistas entre os capítulos brasileiros das PyLadies",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "PyLadies Goiânia - Papo entre PyLadies #1",
+          "url": "https://www.youtube.com/watch?v=SkquoA4UOYY&list=PL0tfcsij9geEE-4MhGViTgeiRBIBUnlAP"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "PyLadies Fortaleza - Papo entre PyLadies #2",
+          "url": "https://www.youtube.com/watch?v=-HVz_XrVa8c&list=PL0tfcsij9geEE-4MhGViTgeiRBIBUnlAP&index=2"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "PyLadies Sul de Minas Gerais - Papo entre PyLadies #3",
+          "url": "https://www.youtube.com/watch?v=C8tmN2Tu76o&list=PL0tfcsij9geEE-4MhGViTgeiRBIBUnlAP&index=3"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "PyLadies São Carlos - Papo entre PyLadies #4",
+          "url": "https://www.youtube.com/watch?v=NvXY_dTGW9c&list=PL0tfcsij9geEE-4MhGViTgeiRBIBUnlAP&index=4"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "PyLadies Rio de Janeiro - Papo entre PyLadies #5",
+          "url": "https://www.youtube.com/watch?v=sb91cOuKKtg&list=PL0tfcsij9geEE-4MhGViTgeiRBIBUnlAP&index=5"
+        }, 
+        {
+          "titulo": "PyLadies Sorocaba - Papo entre PyLadies #6",
+          "url": "https://www.youtube.com/watch?v=KihAwc0UpfE&list=PL0tfcsij9geEE-4MhGViTgeiRBIBUnlAP&index=6"
+        },
+        {
+          "titulo": "PyLadies São Paulo - Papo entre PyLadies #7",
+          "url": "https://www.youtube.com/watch?v=lRAkw7CHB5k&list=PL0tfcsij9geEE-4MhGViTgeiRBIBUnlAP&index=7"
+        },
+        {
+          "titulo": "PyLadies Sergipe - Papo entre PyLadies #8",
+          "url": "https://www.youtube.com/watch?v=PKik9Aag4KA&list=PL0tfcsij9geEE-4MhGViTgeiRBIBUnlAP&index=8"
+        },
+        {
+          "titulo": "PyLadies Manaus - Papo entre PyLadies #9",
+          "url": "https://www.youtube.com/watch?v=he4WaRFOdn4&list=PL0tfcsij9geEE-4MhGViTgeiRBIBUnlAP&index=9"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "K-pop",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "A onda hallyu",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Girls' Generation 소녀시대 'The Boys' MV (KOR Ver.)",
+          "url": "https://www.youtube.com/watch?v=6pA_Tou-DPI"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Girls' Generation 소녀시대 'I GOT A BOY' MV",
+          "url": "https://www.youtube.com/watch?v=wq7ftOZBy0E"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "2NE1 - 내가 제일 잘 나가(I AM THE BEST) M/V",
+          "url": "https://www.youtube.com/watch?v=j7_lSP8Vc3o"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "SUPER JUNIOR 슈퍼주니어 '쏘리 쏘리 (SORRY, SORRY)' MV",
+          "url": "https://www.youtube.com/watch?v=x6QA3m58DQw"
         }
       ]
     },
@@ -104,20 +124,32 @@
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Estrelas Além do Tempo",
+          "url": "https://www.youtube.com/watch?v=wx3PVtrU-Os"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Mulher Maravilha 1984",
+          "url": "https://www.youtube.com/watch?v=sfM7_JLk-84"
         },
         {
           "titulo": "A Chegada",
           "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Mulan",
+          "url": "https://www.youtube.com/watch?v=H3PR1v_5cfc"
+        },
+        {
+          "titulo": "Clube dos cinco",
+          "url": "https://www.youtube.com/watch?v=BSXBvor47Zs"
+        },
+        {
+          "titulo": "Grease",
+          "url": "https://www.youtube.com/watch?v=f2CCEixOVVU"
+        },
+        {
+          "titulo": "Mamma Mia! Lá Vamos Nós De Novo",
+          "url": "https://www.youtube.com/watch?v=YClcvscKf3w"
         }
       ]
     },
@@ -125,59 +157,67 @@
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Os favoritos",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-        },
-        {
-          "titulo": "God of War 4",
+          "titulo": "God of War",
           "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Read Dead Redemption 2",
+          "url": "https://www.youtube.com/watch?v=iqaipBpnVRE"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Marvel's Spider Man",
+          "url": "https://www.youtube.com/watch?v=q4GdJVvdxss"
+        },
+        {
+          "titulo": "Valorant",
+          "url": "https://www.youtube.com/watch?v=e_E9W2vsRbQ"
+        },
+        {
+          "titulo": "World of Warcraft: Shadowlands",
+          "url": "https://www.youtube.com/watch?v=s4gBChg6AII"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Coreografias",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Dance studios...",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "THE ROYAL FAMILY - Nationals 2018 (Guest Performance)",
+          "url": "https://www.youtube.com/watch?v=HjBXLCjvE0Q"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Royal Family | FRONTROW | World of Dance Los Angeles 2015 ",
+          "url": "https://www.youtube.com/watch?v=Xw6k6Ma0oqo"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Doja Cat - Boss B tch | Choreography by MIJU | Girlish Class LJ DANCE | 안무 춤",
+          "url": "https://www.youtube.com/watch?v=wmkz53V_Lfo&t=102s"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Doja Cat - Boss B*tch / Minny Park Choreography",
+          "url": "https://www.youtube.com/watch?v=c34IppYP-V4"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Doja Cat - Say So / Ara Cho Choreography",
+          "url": "https://www.youtube.com/watch?v=piYGKdqt2bc"
+        },
+        {
+          "titulo": "Bon Bon Chocolat - EVERGLOW / Lia Kim X Minny Park Choreography with EVERGLOW",
+          "url": "https://www.youtube.com/watch?v=TfPftoHoNWM"
+        },
+        {
+          "titulo": "마마무(MAMAMOO) - HIP / Minny Park X Lia Kim Choreography with MAMAMOO",
+          "url": "https://www.youtube.com/watch?v=US2B33WeIak"
         }
       ]
     }

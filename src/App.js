@@ -13,7 +13,7 @@ function App() {
       <BannerMain
         videoTitle = {dadosIniciais.categorias[0].videos[0].titulo}
         url = {dadosIniciais.categorias[0].videos[0].url}
-        videoDescription = {"Cinematic de lançamento da Season de 2020"}
+        videoDescription = {"Lançamento Julho 2020"}
       />
 
       <Carousel

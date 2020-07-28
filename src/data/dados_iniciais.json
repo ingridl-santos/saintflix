@@ -1,8 +1,50 @@
 {
   "categorias": [
     {
-      "titulo": "Pop 2020",
-      "link": "https://www.youtube.com/watch?v=K-a8s8OLBSE&list=PLINj2JJM1jxNNBnGb3WvHmcyCyfl0VlJX&index=2&t=0s",
+      "titulo": "Folklore",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Stream na lenda",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Taylor Swift - Cardigan (Official Music Video)",
+          "url": "https://www.youtube.com/watch?v=K-a8s8OLBSE&list=PLINj2JJM1jxNNBnGb3WvHmcyCyfl0VlJX&index=2&t=0s"
+        },
+        {
+          "titulo": "Taylor Swift – exile (feat. Bon Iver) (Official Lyric Video)",
+          "url": "https://www.youtube.com/watch?v=osdoLjUNFnA"
+        },
+        {
+          "titulo": "Taylor Swift - the 1 (Official Lyric Video)",
+          "url": "https://www.youtube.com/watch?v=KsZ6tROaVOQ&list=OLAK5uy_nWgO-2lNMsx90439Yx0xTWCGIktUc74e8"
+        },
+        {
+          "titulo": "Taylor Swift - the last great american dynasty (Official Lyric Video)",
+          "url": "https://www.youtube.com/watch?v=2s5xdY6MCeI&list=OLAK5uy_nWgO-2lNMsx90439Yx0xTWCGIktUc74e8&index=3"
+        },
+        {
+          "titulo": "Taylor Swift – my tears ricochet (Official Lyric Video)",
+          "url": "https://www.youtube.com/watch?v=OWbDJFtHl3w&list=OLAK5uy_nWgO-2lNMsx90439Yx0xTWCGIktUc74e8&index=5"
+        },
+        {
+          "titulo": "Taylor Swift – mirrorball (Official Lyric Video)",
+          "url": "https://www.youtube.com/watch?v=KaM1bCuG4xo&list=OLAK5uy_nWgO-2lNMsx90439Yx0xTWCGIktUc74e8&index=6"
+        },
+        {
+          "titulo": "Taylor Swift – seven (Official Lyric Video)",
+          "url": "https://www.youtube.com/watch?v=pEY-GPsru_E&list=OLAK5uy_nWgO-2lNMsx90439Yx0xTWCGIktUc74e8&index=7"
+        },
+        {
+          "titulo": "Taylor Swift – this is me trying (Official Lyric Video)",
+          "url": "https://www.youtube.com/watch?v=9bdLTPNrlEg&list=OLAK5uy_nWgO-2lNMsx90439Yx0xTWCGIktUc74e8&index=9"
+        }
+      ]
+    },
+    {
+      "titulo": "Lançamentos 2020",
+      "link": "",
       "cor": "#00C86F",
       "link_extra": {
         "text": "Últimos lançamentos",
@@ -12,10 +54,6 @@
         {
           "titulo": "Kylie Minogue - Say Something (Official Lyrics Video)",
           "url": "https://www.youtube.com/watch?v=pRzwD2LLXSI"
-        },
-        {
-          "titulo": "Taylor Swift - Cardigan (Official Music Video)",
-          "url": "https://www.youtube.com/watch?v=K-a8s8OLBSE&list=PLINj2JJM1jxNNBnGb3WvHmcyCyfl0VlJX&index=2&t=0s"
         },
         {
           "titulo": "Troye Sivan - Easy",
@@ -45,6 +83,191 @@
           "titulo": "Poesia Acústica #9 - Melhor Forma - L7NNON | CHRIS | Xamã | Lourena | Cesar Mc | Djonga | Filipe Ret",
           "url": "https://www.youtube.com/watch?v=e1tZUSriYM8"
         }        
+      ]
+    },
+    {
+      "titulo": "K-pop",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cheguei quando tudo isso aqui era mato",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "GROUP SHINHWA 'VENUS' Official Music Video",
+          "url": "https://www.youtube.com/watch?v=uqsHnxo35cg"
+        },
+        {
+          "titulo": "TVXQ! 동방신기 '주문 - MIROTIC' MV",
+          "url": "https://www.youtube.com/watch?v=HtJS32n6LNQ"
+        },
+        {
+          "titulo": "Girls' Generation 소녀시대 '다시 만난 세계 (Into The New World)' MV",
+          "url": "https://www.youtube.com/watch?v=0k2Zzkw_-0I"
+        },
+        {
+          "titulo": "Girls' Generation 소녀시대 'I GOT A BOY' MV",
+          "url": "https://www.youtube.com/watch?v=wq7ftOZBy0E"
+        },
+        {
+          "titulo": "Girls' Generation 소녀시대 'The Boys' MV (KOR Ver.)",
+          "url": "https://www.youtube.com/watch?v=6pA_Tou-DPI"
+        },
+        {
+          "titulo": "f(x) 에프엑스 'Electric Shock' MV",
+          "url": "https://www.youtube.com/watch?v=n8I8QGFA1oM"
+        },
+        {
+          "titulo": "SUPER JUNIOR 슈퍼주니어 '쏘리 쏘리 (SORRY, SORRY)' MV",
+          "url": "https://www.youtube.com/watch?v=x6QA3m58DQw"
+        },
+        {
+          "titulo": "SUPER JUNIOR 슈퍼주니어 'Sexy, Free & Single' MV",
+          "url": "https://www.youtube.com/watch?v=gWIkiI_UmeE&list=PLSpo2qlWhqtw1h5lAu5pNdvlOZQVZIaq3&index=13"
+        },
+        {
+          "titulo": "TVXQ! 동방신기 '왜 (Keep Your Head Down)' MV",
+          "url": "https://www.youtube.com/watch?v=djJb5iSL0Do"
+        },
+        {
+          "titulo": "Brown Eyed Girls 'Abracadabra' (Performance Version)",
+          "url": "https://www.youtube.com/watch?v=o4wJGWcHzVA"
+        },
+        {
+          "titulo": "miss A 'Bad Girl, Good Girl' M/V",
+          "url": "https://www.youtube.com/watch?v=8TeeJvcBdLA"
+        },
+        {
+          "titulo": "Wonder Girls 'So Hot' M/V",
+          "url": "https://www.youtube.com/watch?v=lmun5PO54VE"
+        },
+        {
+          "titulo": "Wonder Girls 'Tell me' M/V",
+          "url": "https://www.youtube.com/watch?v=BlHv3BbBv6A"
+        },
+        {
+          "titulo": "2NE1 - 내가 제일 잘 나가(I AM THE BEST) M/V",
+          "url": "https://www.youtube.com/watch?v=j7_lSP8Vc3o"
+        },
+        
+        {
+          "titulo": "[BE ORIGINAL] ITZY(있지) 'WANNABE' (4K)",
+          "url": "https://www.youtube.com/watch?v=Vp9I_m6znMM"
+        },
+        {
+          "titulo": "ITZY  'ICY' Performance Video",
+          "url": "https://www.youtube.com/watch?v=mr16aEZ7f4U"
+        },
+        {
+          "titulo": "Red Velvet 레드벨벳 '짐살라빔 (Zimzalabim)' MV",
+          "url": "https://www.youtube.com/watch?v=YBnGBb1wg98"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "link_extra": {
+        "text":"Favoritos e muito aguardados",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Estrelas Além do Tempo",
+          "url": "https://www.youtube.com/watch?v=wx3PVtrU-Os"
+        },
+        {
+          "titulo": "Mulher Maravilha 1984",
+          "url": "https://www.youtube.com/watch?v=sfM7_JLk-84"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Mulan",
+          "url": "https://www.youtube.com/watch?v=H3PR1v_5cfc"
+        },
+        {
+          "titulo": "Clube dos cinco",
+          "url": "https://www.youtube.com/watch?v=BSXBvor47Zs"
+        },
+        {
+          "titulo": "Grease",
+          "url": "https://www.youtube.com/watch?v=f2CCEixOVVU"
+        },
+        {
+          "titulo": "Mamma Mia! Lá Vamos Nós De Novo",
+          "url": "https://www.youtube.com/watch?v=YClcvscKf3w"
+        }
+      ]
+    },
+    {
+      "titulo": "Games",
+      "cor": "red",
+      "link_extra": {
+        "text": "Tá na lista pra jogar ou sendo jogado",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "God of War",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Read Dead Redemption 2",
+          "url": "https://www.youtube.com/watch?v=iqaipBpnVRE"
+        },
+        {
+          "titulo": "Marvel's Spider Man",
+          "url": "https://www.youtube.com/watch?v=q4GdJVvdxss"
+        },
+        {
+          "titulo": "Valorant",
+          "url": "https://www.youtube.com/watch?v=e_E9W2vsRbQ"
+        },
+        {
+          "titulo": "World of Warcraft: Shadowlands",
+          "url": "https://www.youtube.com/watch?v=s4gBChg6AII"
+        }
+      ]
+    },
+    {
+      "titulo": "Dança",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Coreografias",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "THE ROYAL FAMILY - Nationals 2018 (Guest Performance)",
+          "url": "https://www.youtube.com/watch?v=HjBXLCjvE0Q"
+        },
+        {
+          "titulo": "Royal Family | FRONTROW | World of Dance Los Angeles 2015 ",
+          "url": "https://www.youtube.com/watch?v=Xw6k6Ma0oqo"
+        },
+        {
+          "titulo": "Doja Cat - Boss B tch | Choreography by MIJU | Girlish Class LJ DANCE | 안무 춤",
+          "url": "https://www.youtube.com/watch?v=wmkz53V_Lfo&t=102s"
+        },
+        {
+          "titulo": "Doja Cat - Boss B*tch / Minny Park Choreography",
+          "url": "https://www.youtube.com/watch?v=c34IppYP-V4"
+        },
+        {
+          "titulo": "Doja Cat - Say So / Ara Cho Choreography",
+          "url": "https://www.youtube.com/watch?v=piYGKdqt2bc"
+        },
+        {
+          "titulo": "Bon Bon Chocolat - EVERGLOW / Lia Kim X Minny Park Choreography with EVERGLOW",
+          "url": "https://www.youtube.com/watch?v=TfPftoHoNWM"
+        },
+        {
+          "titulo": "마마무(MAMAMOO) - HIP / Minny Park X Lia Kim Choreography with MAMAMOO",
+          "url": "https://www.youtube.com/watch?v=US2B33WeIak"
+        }
       ]
     },
     {
@@ -90,134 +313,6 @@
         {
           "titulo": "PyLadies Manaus - Papo entre PyLadies #9",
           "url": "https://www.youtube.com/watch?v=he4WaRFOdn4&list=PL0tfcsij9geEE-4MhGViTgeiRBIBUnlAP&index=9"
-        }
-      ]
-    },
-    {
-      "titulo": "K-pop",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "A onda hallyu",
-        "url": ""
-      },
-      "videos": [
-        {
-          "titulo": "Girls' Generation 소녀시대 'The Boys' MV (KOR Ver.)",
-          "url": "https://www.youtube.com/watch?v=6pA_Tou-DPI"
-        },
-        {
-          "titulo": "Girls' Generation 소녀시대 'I GOT A BOY' MV",
-          "url": "https://www.youtube.com/watch?v=wq7ftOZBy0E"
-        },
-        {
-          "titulo": "2NE1 - 내가 제일 잘 나가(I AM THE BEST) M/V",
-          "url": "https://www.youtube.com/watch?v=j7_lSP8Vc3o"
-        },
-        {
-          "titulo": "SUPER JUNIOR 슈퍼주니어 '쏘리 쏘리 (SORRY, SORRY)' MV",
-          "url": "https://www.youtube.com/watch?v=x6QA3m58DQw"
-        }
-      ]
-    },
-    {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Estrelas Além do Tempo",
-          "url": "https://www.youtube.com/watch?v=wx3PVtrU-Os"
-        },
-        {
-          "titulo": "Mulher Maravilha 1984",
-          "url": "https://www.youtube.com/watch?v=sfM7_JLk-84"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Mulan",
-          "url": "https://www.youtube.com/watch?v=H3PR1v_5cfc"
-        },
-        {
-          "titulo": "Clube dos cinco",
-          "url": "https://www.youtube.com/watch?v=BSXBvor47Zs"
-        },
-        {
-          "titulo": "Grease",
-          "url": "https://www.youtube.com/watch?v=f2CCEixOVVU"
-        },
-        {
-          "titulo": "Mamma Mia! Lá Vamos Nós De Novo",
-          "url": "https://www.youtube.com/watch?v=YClcvscKf3w"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Os favoritos",
-        "url": ""
-      },
-      "videos": [
-        {
-          "titulo": "God of War",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Read Dead Redemption 2",
-          "url": "https://www.youtube.com/watch?v=iqaipBpnVRE"
-        },
-        {
-          "titulo": "Marvel's Spider Man",
-          "url": "https://www.youtube.com/watch?v=q4GdJVvdxss"
-        },
-        {
-          "titulo": "Valorant",
-          "url": "https://www.youtube.com/watch?v=e_E9W2vsRbQ"
-        },
-        {
-          "titulo": "World of Warcraft: Shadowlands",
-          "url": "https://www.youtube.com/watch?v=s4gBChg6AII"
-        }
-      ]
-    },
-    {
-      "titulo": "Coreografias",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Dance studios...",
-        "url": ""
-      },
-      "videos": [
-        {
-          "titulo": "THE ROYAL FAMILY - Nationals 2018 (Guest Performance)",
-          "url": "https://www.youtube.com/watch?v=HjBXLCjvE0Q"
-        },
-        {
-          "titulo": "Royal Family | FRONTROW | World of Dance Los Angeles 2015 ",
-          "url": "https://www.youtube.com/watch?v=Xw6k6Ma0oqo"
-        },
-        {
-          "titulo": "Doja Cat - Boss B tch | Choreography by MIJU | Girlish Class LJ DANCE | 안무 춤",
-          "url": "https://www.youtube.com/watch?v=wmkz53V_Lfo&t=102s"
-        },
-        {
-          "titulo": "Doja Cat - Boss B*tch / Minny Park Choreography",
-          "url": "https://www.youtube.com/watch?v=c34IppYP-V4"
-        },
-        {
-          "titulo": "Doja Cat - Say So / Ara Cho Choreography",
-          "url": "https://www.youtube.com/watch?v=piYGKdqt2bc"
-        },
-        {
-          "titulo": "Bon Bon Chocolat - EVERGLOW / Lia Kim X Minny Park Choreography with EVERGLOW",
-          "url": "https://www.youtube.com/watch?v=TfPftoHoNWM"
-        },
-        {
-          "titulo": "마마무(MAMAMOO) - HIP / Minny Park X Lia Kim Choreography with MAMAMOO",
-          "url": "https://www.youtube.com/watch?v=US2B33WeIak"
         }
       ]
     }

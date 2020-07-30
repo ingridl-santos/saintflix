@@ -1,0 +1,10 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Anime",
+      "descricao": "Desenhos japoneses",
+      "cor": "#00C86F"
+    }
+  ]
+}

@@ -12,7 +12,7 @@ function Menu() {
       </Link>
      <Button as={Link} className="ButtonLink" to="/cadastro/video">Novo vídeo</Button>
     </nav>
-  )
+  );
 }
 
 export default Menu;

@@ -22,8 +22,7 @@ function PageDefault({children}) {
         </Main>
       <Footer/>   
     </React.Fragment>
-   
-  )
+  );
 }
 
 export default PageDefault;

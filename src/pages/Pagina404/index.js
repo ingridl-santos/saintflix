@@ -1,5 +1,5 @@
 import React from  'react';
-import PageDefault from '../../components/pageDefault';
+import HeaderDefault from '../../components/pageDefault/headerDefault';
 
 const iframe = '<iframe src="https://mariosouto.com/flappy-bird-devsoutinho/" width="340" height="600"></iframe>';
 
@@ -11,7 +11,7 @@ function Iframe(props) {
 
 function Pagina404() {
   return (
-    <PageDefault>
+    <HeaderDefault>
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', flexDirection: 'column' }}>
         <h1>Opa! Quebrou tudo D:</h1>
         <p>
@@ -19,7 +19,7 @@ function Pagina404() {
         </p>
         <Iframe iframe={iframe}/>
       </div>
-    </PageDefault>
+    </HeaderDefault>
   );
 }
 

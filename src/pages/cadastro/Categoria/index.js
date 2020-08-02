@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import HeaderDefault from '../../../components/pageDefault/headerDefault';
 import FormField from '../../../components/FormField';
 import SaveButton from '../../../components/Button/SaveButton';
+import useForm from '../../../hooks/useform';
 
 function CadastroCategoria() {
   const valoresIniciais = {
@@ -11,26 +12,12 @@ function CadastroCategoria() {
     cor: '',
   };
 
+  const { handleChange, values, clearForm } = useForm(valoresIniciais);
   const [categorias, setCategorias] = useState([]);
-  const [values, setValues] = useState(valoresIniciais);
-
-  function setValue(chave, valor) {
-    setValues({
-      ...values,
-      [chave]: valor,
-    });
-  }
-
-  function handleChange(infosEvento) {
-    setValue(
-      infosEvento.target.getAttribute('name'),
-      infosEvento.target.value,
-    );
-  }
 
   useEffect(() => {
     if (window.location.href.includes('localhost')) {
-      const URL = 'http://localhost:8080/categorias';
+      const URL = 'https://saintflix.herokuapp.com/categorias';
       fetch(URL).then(async (respostaServer) => {
         if (respostaServer.ok) {
           const resposta = await respostaServer.json();
@@ -40,7 +27,7 @@ function CadastroCategoria() {
         throw new Error('Não foi possível pegar os dados');
       });
     }
-  }, {});
+  }, []);
 
   return (
     <HeaderDefault>
@@ -56,7 +43,7 @@ function CadastroCategoria() {
           values,
         ]);
 
-        setValues(valoresIniciais);
+        clearForm();
       }}
       >
         <FormField
@@ -90,8 +77,8 @@ function CadastroCategoria() {
 
       <ul>
         {categorias.map((categoria) => (
-          <li key={`${categoria.nome}`}>
-            {categoria.nome}
+          <li key={`${categoria.titulo}`}>
+            {categoria.titulo}
             {' '}
             -
             {' '}
